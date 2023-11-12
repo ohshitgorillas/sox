@@ -1,3 +1,5 @@
+This fork is made from mansr/sox and increases the number of taps available for the sinc filter to 16,777,216.
+
 SoX
 ---
 
